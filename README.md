@@ -38,4 +38,4 @@ You can play with an xbox controller or with the keyboard(better with the xbox c
 | ultim power     | r      |   push the right joystick |
 | next world | a   |  rt |
 | previous world     | s      |   lb |
-| pause menu | echap      |    start |
+| pause menu | escape    |    start |
