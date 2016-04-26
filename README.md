@@ -19,6 +19,8 @@ Multivers is a 2 dimensional plateform/action game. the camera is following the 
 
 ##Gameplay
 
+https://www.youtube.com/watch?v=s-gaie6FlOc&feature=youtu.be
+
 The player have to find the end of the level. Doing that he will encounter enemies. He have to defeat them (with weapons and spell) in order to have a better score. Each enemy have a type (fire, earth , wateror lightening).
 
 The main feature of this game is a very powerfull power that the character have. She can change the environement (water, fire, earth or lightening). Doing that her power changes too, and the enemies will be less (or more) powerfull against her(fire > water, water > lightening, lightening > earth and earth > fire).
